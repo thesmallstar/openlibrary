@@ -22,7 +22,6 @@ from openlibrary.core.ratings import Ratings
 # relative imports
 from lists.model import ListMixin, Seed
 
-from . import db
 from . import cache
 from . import iprange
 from . import inlibrary
